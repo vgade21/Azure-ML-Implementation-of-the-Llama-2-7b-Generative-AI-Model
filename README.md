@@ -1,4 +1,4 @@
-# Azure-ML-Implementation-of-the-Llama-2-7b-Generative-AI-Model
+# WebMD-Informed Responses: Deploying and Fine-Tuning the Llama 2 7b Model on Azure ML
 
 In this project, we operationalized a Generative AI model, specifically the Large Language Model Llama 2 with a 7-billion parameter configuration, sourced from the Hugging Face platform. Our primary objective was to provide a comprehensive setup and tuning mechanism on the MLOps platform, Azure ML.
 
